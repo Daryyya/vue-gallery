@@ -1,0 +1,25 @@
+{
+  "name": "vue-gallery",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "serve": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daryyya/vue-gallery.git"
+  },
+  "author": "darya9841402670@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daryyya/vue-gallery/issues"
+  },
+  "homepage": "https://github.com/Daryyya/vue-gallery#readme",
+  "dependencies": {
+    "vue": "^3.2.36"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^4.11.1"
+  }
+}
